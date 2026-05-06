@@ -14,7 +14,7 @@ const NotFoundPage = () => (
       <p>You just hit a route that doesn&#39;t exist...</p>
       <a href="/"><Button
                 title="Return Home"
-                colorClass="text-white bg-gradient-to-r from-pink to-purple"
+                colorClass="text-black bg-gradient-to-r from-pink to-purple"
                 marginClass="mt-5"
               ></Button></a>
       </div>

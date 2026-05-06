@@ -12,10 +12,10 @@ const Footer = () => {
             <div>
               <img className="max-h-28 max-w-xs" src={logo} alt="Holo"></img>
               <p className="text-black opacity-70 text-sm mt-5 ">
-                A stunning and minimal<br></br> personalized website starter
+                Under construction<br></br> Under construction
                 theme
                 <br></br>
-                built with Gatsby.
+                Under construction
               </p>
               <p className="text-white text-lg font-bold mt-20">
                 <span className="text-black font-montserrat font-semibold mt-20">
@@ -25,18 +25,18 @@ const Footer = () => {
               <div className="text-black font-bold block-inline">
                 <p>
                   <a className="text-black font-bold block-inline" href="/">
-                    Holo
+                    Rinbytes
                   </a>
 
                   <a
                     className="text-black font-semibold ml-1"
                     target="_blank"
-                    href="https://travislord.xyz"
+                    href="https://rinbytes.netlify.app/"
                   >
                     By TL
                   </a>
                   <a
-                    href="https://github.com/lilxyzz/holo-theme"
+                    href="https://github.com/RinBytes/rinbytes.github.io/"
                     target="_blank"
                   >
                     <img

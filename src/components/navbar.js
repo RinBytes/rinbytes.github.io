@@ -13,7 +13,7 @@ const Navbar = () => {
               href="/"
             >
               <span className="text-gradient bg-gradient-to-r from-pink to-purple font-semibold">
-                HOLO
+                RinBytes
               </span>
             </a>
             <div className="hidden md:block">
@@ -119,10 +119,10 @@ const Navbar = () => {
             </a>
             <div className="items-center mt-20 py-3">
               <a
-                href="tel:#"
+                href="https://www.linkedin.com/groups/12898753/"
                 className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-center bg-purple text-white hover:text-black border border-purple  hover:bg-transparent md:text-lg md:px-10 "
               >
-                Call Us Now
+                Join Women in M365!
               </a>
             </div>
           </div>
