@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>RinBytes Hub Blog</title>
+        <link>https://www.rinbytes.com/blog</link>
+        <description>RinBytes Hub Blog</description>
+        <lastBuildDate>Fri, 08 May 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Site Launch!]]></title>
+            <link>https://www.rinbytes.com/blog/Site Launch</link>
+            <guid>https://www.rinbytes.com/blog/Site Launch</guid>
+            <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[This page was launched to help consolidate content in an easy way to find.]]></description>
+            <content:encoded><![CDATA[<p>This page was launched to help consolidate content in an easy way to find.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bio">Bio:<a href="https://www.rinbytes.com/blog/Site%20Launch#bio" class="hash-link" aria-label="Direct link to Bio:" title="Direct link to Bio:" translate="no">​</a></h3>
+<p>Part technologist, part educator, part community organizer—Karinne Bessette operates at the intersection of enterprise security, hands-on learning, and human connection.
+In their role as Technical Storyteller in Veeam's Office of the CTO, they specialize in Microsoft 365 security and backup strategy, develop thought leadership content, and present at conferences worldwide. Their speaking portfolio spans M365 administration, Power Automate, Copilot, AI agents, Adaptive Cards, adoption strategy, and workplace culture—with live demos, because they believe the best way to learn is by doing.
+A Microsoft MVP, MCT Alumni, and Object First Ace with 10+ certifications, they also teach courses at Knox Technical Center and participate in Education Advisory Boards. They run the Women in M365 Book club and co-organize the Columbus Microsoft Teams User Group—because building community is as important as building solutions.
+(See more: <a href="https://linktr.ee/rinbytes" target="_blank" rel="noopener noreferrer" class="">https://linktr.ee/rinbytes</a>).</p>]]></content:encoded>
+            <category>greetings</category>
+        </item>
+    </channel>
+</rss>

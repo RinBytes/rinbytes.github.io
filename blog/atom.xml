@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.rinbytes.com/blog</id>
+    <title>RinBytes Hub Blog</title>
+    <updated>2026-05-08T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://www.rinbytes.com/blog"/>
+    <subtitle>RinBytes Hub Blog</subtitle>
+    <icon>https://www.rinbytes.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Site Launch!]]></title>
+        <id>https://www.rinbytes.com/blog/Site Launch</id>
+        <link href="https://www.rinbytes.com/blog/Site Launch"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This page was launched to help consolidate content in an easy way to find.]]></summary>
+        <content type="html"><![CDATA[<p>This page was launched to help consolidate content in an easy way to find.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="bio">Bio:<a href="https://www.rinbytes.com/blog/Site%20Launch#bio" class="hash-link" aria-label="Direct link to Bio:" title="Direct link to Bio:" translate="no">​</a></h3>
+<p>Part technologist, part educator, part community organizer—Karinne Bessette operates at the intersection of enterprise security, hands-on learning, and human connection.
+In their role as Technical Storyteller in Veeam's Office of the CTO, they specialize in Microsoft 365 security and backup strategy, develop thought leadership content, and present at conferences worldwide. Their speaking portfolio spans M365 administration, Power Automate, Copilot, AI agents, Adaptive Cards, adoption strategy, and workplace culture—with live demos, because they believe the best way to learn is by doing.
+A Microsoft MVP, MCT Alumni, and Object First Ace with 10+ certifications, they also teach courses at Knox Technical Center and participate in Education Advisory Boards. They run the Women in M365 Book club and co-organize the Columbus Microsoft Teams User Group—because building community is as important as building solutions.
+(See more: <a href="https://linktr.ee/rinbytes" target="_blank" rel="noopener noreferrer" class="">https://linktr.ee/rinbytes</a>).</p>]]></content>
+        <author>
+            <name>Karinne Bessette</name>
+            <uri>https://linkedin.com/in/Rinbytes</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
+</feed>

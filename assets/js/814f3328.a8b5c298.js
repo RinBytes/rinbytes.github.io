@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([["833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Site Launch!","permalink":"/blog/Site Launch","unlisted":false,"date":"2026-05-08T00:00:00.000Z"}]}')}}]);
